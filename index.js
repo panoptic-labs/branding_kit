@@ -46,7 +46,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         /* Pass meta data of file */
         metaData: {
             /* file name */
-            fileName: "Panoptic Whitepaper v1.3.1.pdf"
+            fileName: "Panoptic Branding Kit v1.0.pdf"
         }
     }, viewerConfig);
 });
