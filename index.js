@@ -31,7 +31,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         content: {
             /* Location of file where it is hosted */
             location: {
-                url: "https://raw.githubusercontent.com/panoptic-labs/branding_kit/main/Panoptic_Whitepaper_v1.3.1.pdf",
+                url: "https://raw.githubusercontent.com/panoptic-labs/branding_kit/main/Panoptic_Brand_Kit_v1.0.pdf",
                 /*
                 If the file URL requires some additional headers, then it can be passed as follows:-
                 headers: [
